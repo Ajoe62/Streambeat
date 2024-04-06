@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 import os
-import dj_database_url
+#import dj_database_url
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -88,7 +88,7 @@ DATABASES = {
     }
 }
 
-DATABASES['default'] = dj_database_url.parse('postgres://streambeat_django_render_user:20U9m1pMZIKk0h6YEnJY3hYgERjtkqkX@dpg-co81fh21hbls73ei7g70-a.oregon-postgres.render.com/streambeat_django_render')
+#DATABASES['default'] = dj_database_url.parse('postgres://streambeat_django_render_user:20U9m1pMZIKk0h6YEnJY3hYgERjtkqkX@dpg-co81fh21hbls73ei7g70-a.oregon-postgres.render.com/streambeat_django_render')
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
