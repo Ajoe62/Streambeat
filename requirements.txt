@@ -28,7 +28,7 @@ psycopg2==2.9.9
 PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==2.4.7
-python-apt==2.4.0+ubuntu2
+python-apt==0.7.8
 pytz==2022.1
 PyYAML==5.4.1
 SecretStorage==3.3.1
