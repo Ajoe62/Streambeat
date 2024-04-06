@@ -2,7 +2,6 @@ agora_token_builder==1.0.0
 asgiref==3.5.0
 blinker==1.4
 certifi==2024.2.2
-command-not-found==0.3
 cryptography==3.4.8
 dbus-python==1.2.18
 distlib==0.3.8
