@@ -2,12 +2,11 @@ agora_token_builder==1.0.0
 asgiref==3.5.0
 blinker==1.4
 certifi==2024.2.2
-command-not-found==0.3
 cryptography==3.4.8
 dbus-python==1.2.18
 distlib==0.3.8
 distro==1.7.0
-distro-info==1.1+ubuntu0.1
+distro-info==1.o
 dj-database-url==2.1.0
 Django==3.2.12
 filelock==3.13.3
@@ -29,7 +28,7 @@ psycopg2==2.9.9
 PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==2.4.7
-python-apt==2.4.0+ubuntu2
+python-apt==0.7.8
 pytz==2022.1
 PyYAML==6.0
 SecretStorage==3.3.1
