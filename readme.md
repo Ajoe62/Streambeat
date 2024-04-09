@@ -1,4 +1,4 @@
-# MyChat
+# StreamBeat App
 
 ## Description 
 A Group video calling application using the Agora Web SDK with a Django backend.
@@ -7,12 +7,12 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/divanov11/mychat
+git clone https://github.com/Ajoe62/Streambeat
 ```
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd Streambeat
 pip install -r requirements.txt
 ```
 
